@@ -2,6 +2,8 @@
 ### Bible text with important words transliterated.
 
 
+Based on YLT version.
+
 This is a work in progress...content gets munged as time allows.
 
 The [Glossary]() contains a list of words that have been replaced and definitions
