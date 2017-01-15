@@ -1,8 +1,10 @@
 # translogos
+### Bible text with important words transliterated.
 
-Bible text with keywords transliterated
 
+This is a work in progress...content gets munged as time allows.
 
-###Output
-- Glossary = transliterated words and their definitions
-- Bible = open-source text searchable via useful URLs
+The [Glossary]() contains a list of words that have been replaced and definitions
+
+Access is via URLs like so:
+	
