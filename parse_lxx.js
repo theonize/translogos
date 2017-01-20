@@ -1,5 +1,5 @@
 const fs = require('fs')
-let data = fs.readFileSync('BHS.vs.txt')
+let data = fs.readFileSync('LXX.txt')
 let result = {}
 let stuff = []
 let text = ''
@@ -11,9 +11,9 @@ data = data.toString().split('\n')
 
 
 for (let line of data){
-	stuff = line.split(/[:]/)
+	stuff = line.split(/\s/)
 
-	if (stuff.length = 2) {
+	if ((stuff.length = 2) && (isNaN(stuff[0]))) {
 		book = stuff[0]
 
 		result[book] = []
@@ -21,27 +21,29 @@ for (let line of data){
 }
 
 for (let line of data){
-	stuff = line.split(/[:]/)
+	stuff = line.split(/\s/)
 
-	if (stuff.length < 2) {
+	if ((stuff.length = 2) && (isNaN(stuff[0]))) {
 		book = stuff[0]
-	} else {
-		chapter = stuff[0] - 1
+		chapter = stuff[1] - 1
+
 		result[book][chapter] = []
 	}
 }
 
 for (let line of data){
-	stuff = line.split(/[:]/)
+	stuff = line.split(/\s/)
 
-	if (stuff.length < 2) {
+	if ((stuff.length = 2) && (isNaN(stuff[0]))) {
 		book = stuff[0]
+		chapter = stuff[1] - 1
 	} else {
-		chapter = stuff[0] - 1
-
-		verse = stuff[1] - 1
-
-		result[book][chapter][verse] = stuff[2]
+		result[book][chapter] = line
+		.split(/\d/)
+		.filter(function(curr){
+			if (curr.length > 1) return true
+			else return false
+		})
 	}
 }
 
