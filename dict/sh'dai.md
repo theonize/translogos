@@ -1,5 +1,4 @@
-# sh'
-
+# sh'dai
 Gen 17:1
 When Abram was ninety-nine years old the LORD appeared to Abram and said to him, “I am God Almighty;fn walk before me, and be blameless,
 Gen 28:3
