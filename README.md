@@ -4,6 +4,8 @@
 
 [translogos](https://doulos-software.github.io/translogos/)
 
+Note the [dictionary](/dict/README)
+
 ## Outputs
 - [NET json](./json/net.json) (New English Translation)
 - [GNT json](./json/gnt.json) (Greek New Testament)
