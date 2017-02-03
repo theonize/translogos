@@ -13,4 +13,4 @@
 
 This is a work in progress...content gets munged as time allows.
 
-Please raise issues as needed.
+Please [raise issues](https://github.com/doulos-software/translogos/issues) as needed.
