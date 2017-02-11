@@ -3,7 +3,6 @@
 ! = not translated as gospel
 
 
----
 
 ! [Mar 8:35]
 [Act 15:7]
@@ -50,6 +49,7 @@
 [Phl 2:22]
 [Phl 4:3]
 [Phl 4:15]
+---
 [Col 1:5]
 [Col 1:23]
 [1Th 1:5]
@@ -97,5 +97,5 @@ Instances of gospel not from evagnelion:
 [Gal 1:9]
 [Gal 3:8]
 [Gal 4:13]
-[Eph 3:7]
+[Eph 3:7] ~ diakonos
 [1Pe 4:6]
