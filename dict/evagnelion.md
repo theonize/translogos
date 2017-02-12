@@ -4,7 +4,11 @@
 
 
 
+[Mat 4:23]
 ! [Mar 8:35]
+[Mat 9:35]
+[Mat 24:14]
+[Mat 26:13]
 [Act 15:7]
 [Act 20:24]
 [Rom 1:1]
@@ -49,7 +53,6 @@
 [Phl 2:22]
 [Phl 4:3]
 [Phl 4:15]
----
 [Col 1:5]
 [Col 1:23]
 [1Th 1:5]
@@ -70,10 +73,6 @@
 
 
 Instances of gospel not from evagnelion:
-[Mat 4:23]
-[Mat 9:35]
-[Mat 24:14]
-[Mat 26:13]
 [Mar 1:1]
 [Mar 1:14]
 [Mar 1:15]
